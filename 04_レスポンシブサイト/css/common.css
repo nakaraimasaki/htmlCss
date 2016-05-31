@@ -20,7 +20,7 @@ header h1 {
 }
 
 header nav {
-    width: 1０0%;
+    width: 100%;
     background-color: #394548;
 }
 header ul {
@@ -51,5 +51,6 @@ h5{
     width: 200px;
     height: 200px;
     margin: 0;
-    background-color: #0b303b;
+
+    background-color: #92e5fe;
 }
